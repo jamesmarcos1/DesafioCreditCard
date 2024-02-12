@@ -1,0 +1,1 @@
+You enter your card limit, and then enter the product that was purchased and its value, then you can exit the program and when exiting, you are informed of your limit, if you try to purchase something greater than your limit, you are informed.
